@@ -1,0 +1,15 @@
+type: code
+files:
+- name: main.py
+  visible: true
+  text: |-
+    import re
+
+    template = ''
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/9475#comment
+status: Solved
+feedback:
+  message: <html>Correct solution</html>
+  time: Sun, 12 Sep 2021 18:16:56 UTC
+record: -1

@@ -1,0 +1,12 @@
+type: code
+custom_name: Order!
+files:
+- name: main.py
+  visible: true
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/6381#comment
+status: Solved
+feedback:
+  message: <html>Correct solution</html>
+  time: Sat, 11 Sep 2021 06:37:40 UTC
+record: -1
